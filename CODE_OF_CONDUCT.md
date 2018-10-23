@@ -1,21 +1,17 @@
-#!/bin/bash
 
-touch CODE_OF_CONDUCT.md
-
-echo "
 ### Code Of Conduct
 
 # 1. Overview
 
-Having been encouraged by clients to adopt a written code of conduct, the "$1" developers elected to govern their interactions with each other, with their clients, and with the larger "$1" user community in accordance with the \"instruments of good works\" from chapter 4 of [The Rule of St. Benedict](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict). This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
+Having been encouraged by clients to adopt a written code of conduct, the HolyConduct developers elected to govern their interactions with each other, with their clients, and with the larger HolyConduct user community in accordance with the "instruments of good works" from chapter 4 of [The Rule of St. Benedict](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict). This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
 
-## 1.1. Users of the "$1" Code
+## 1.1. Users of the HolyConduct Code
 
-This rule applies to "$1" developers, not to users of the "$1" code. Everyone is free to use the "$1" source code, object code, and/or documentation regardless of their opinion of and adherence to this rule. "$1" has been and continues to be completely free to everyone, without precondition.
+This rule applies to HolyConduct developers, not to users of the HolyConduct code. Everyone is free to use the HolyConduct source code, object code, and/or documentation regardless of their opinion of and adherence to this rule. HolyConduct has been and continues to be completely free to everyone, without precondition.
 
-## 1.2. Participation in the "$1" Community
+## 1.2. Participation in the HolyConduct Community
 
-Participants in the "$1" Mailing Lists or other public forums are not required to follow this rule. However, comments posted on mailing lists or forums are expected to be courteous and professional, and should be worded as if they were written by someone who is a follower of this rule. In other words, while participating in the "$1" community, one should speak only the truth in love, honor all, be not angry nor nurse a grudge, do not return evil for evil, be not proud nor a grumbler nor a detractor, avoid depraved speech, hate no one, do not love quarreling, and so forth. Violators brought to the attention of the project leader will be reproved, gently at first but with increasing urgency, and may ultimately be banned if the behavior is not amended.
+Participants in the HolyConduct Mailing Lists or other public forums are not required to follow this rule. However, comments posted on mailing lists or forums are expected to be courteous and professional, and should be worded as if they were written by someone who is a follower of this rule. In other words, while participating in the HolyConduct community, one should speak only the truth in love, honor all, be not angry nor nurse a grudge, do not return evil for evil, be not proud nor a grumbler nor a detractor, avoid depraved speech, hate no one, do not love quarreling, and so forth. Violators brought to the attention of the project leader will be reproved, gently at first but with increasing urgency, and may ultimately be banned if the behavior is not amended.
 
 
 # 2. The Rule
@@ -79,7 +75,7 @@ Participants in the "$1" Mailing Lists or other public forums are not required t
 57.  Devote yourself frequently to prayer.
 58.  Daily in your prayers, with tears and sighs, confess your past sins to God, and amend them for the future.
 59.  Fulfill not the desires of the flesh; hate your own will.
-60.  Obey in all things the commands of those whom God has placed in authority over you even though they (which God forbid) should act otherwise, mindful of the Lord's precept, "Do what they say, but not what they do."
+60.  Obey in all things the commands of those whom God has placed in authority over you even though they (which God forbid) should act otherwise, mindful of the Lord's precept, Do what they say, but not what they do.
 61.  Do not wish to be called holy before one is holy; but first to be holy, that you may be truly so called.
 62.  Fulfill God's commandments daily in your deeds.
 63.  Love chastity.
@@ -92,4 +88,4 @@ Participants in the "$1" Mailing Lists or other public forums are not required t
 70.  Pray for your enemies in the love of Christ.
 71.  Make peace with your adversary before the sun sets.
 72.  Never despair of God's mercy.
-" > CODE_OF_CONDUCT.md
+
